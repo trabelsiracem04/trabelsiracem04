@@ -1,4 +1,4 @@
-# Hi, I'm Racem Trabelsi 👋
+# Hi, I'm Racem Trabelsi 
 
 **Data Engineering & Decision Systems Student from Tunisia**
 Focused on Machine Learning, Computer Vision, and Intelligent Systems
@@ -7,11 +7,12 @@ Focused on Machine Learning, Computer Vision, and Intelligent Systems
 
 ## About Me
 
-- 🎓 Engineering student in **Data Engineering & Decision Systems** @ ENET'Com Sfax
-- 🤖 Building end-to-end ML pipelines — from data preprocessing to deployment
-- 🏆 Hackathon winner with real-world AI projects
-- 📚 Currently deepening expertise in **Deep Learning** and **Computer Vision**
-- 🤝 Open to internship opportunities and collaborative projects
+- Engineering student in **Data Engineering & Decision Systems** @ ENET'Com Sfax
+- Building end-to-end ML pipelines — from data preprocessing to deployment
+- Hackathon winner with real-world AI projects
+- Currently deepening expertise in **Deep Learning** and **Computer Vision**
+- Open to internship opportunities and collaborative projects
+- Data analysis, visualization, and insight extraction from complex datasets
 
 ---
 
@@ -82,7 +83,7 @@ Focused on Machine Learning, Computer Vision, and Intelligent Systems
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **AI / ML**
 
@@ -103,17 +104,10 @@ Focused on Machine Learning, Computer Vision, and Intelligent Systems
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trabelsiracem04&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trabelsiracem04&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
 
 ## Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/racem-trabelsi-769471391/)
 - 📧 racem.trabelsi@enetcom.u-sfax.tn
+- 📧 trabelsiracem04@gmail.com
 - 📍 Sfax, Tunisia
