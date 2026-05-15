@@ -1,65 +1,76 @@
-<h1 align="center">Racem Trabelsi</h1>
+# Hi, I'm Racem Trabelsi 👋
 
-<p align="center">
-  Computer Engineering Student &nbsp;·&nbsp; ENETCOM Sfax, Tunisia<br/>
-  <em>Machine Learning &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; AI</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/racem-trabelsi-769471391/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/trabelsiracem04">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Data Engineering & Decision Systems Student from Tunisia**
+Focused on Machine Learning, Computer Vision, and Intelligent Systems
 
 ---
 
 ## About Me
 
-I am a computer engineering student with a strong interest in machine learning and data science. I enjoy working on projects that combine rigorous data analysis with intelligent model design — from understanding behavioral patterns to detecting anomalies in complex systems.
+- 🎓 Engineering student in **Data Engineering & Decision Systems** @ ENET'Com Sfax
+- 🤖 Building end-to-end ML pipelines — from data preprocessing to deployment
+- 🏆 Hackathon winner with real-world AI projects
+- 📚 Currently deepening expertise in **Deep Learning** and **Computer Vision**
+- 🤝 Open to internship opportunities and collaborative projects
 
-- 🎓 Currently studying at **ENETCOM**, Sfax, Tunisia
-- 🔍 Focused on **ML pipelines**, **data analysis**, and **predictive modeling**
-- 📚 Continuously deepening my knowledge in deep learning and statistical methods
-- 🤝 Open to internship opportunities and research collaborations
+---
+
+## What I Work On
+
+- Computer vision systems for real-time detection and virtual try-on
+- Machine learning pipelines for behavioral analysis and anomaly detection
+- Smart infrastructure platforms integrating AI and sensor monitoring
+- Full-stack AI web applications with React and FastAPI
+
+---
+
+## Achievements
+
+- 🥇 **Winner** — AI Night Challenge (EcoShield, 2026)
+- 🥉 **3rd Place** — MindShift Hackathon (2026)
+
+---
+
+## Certifications
+
+- ✅ Associate Data Scientist — **DataCamp**
+- ✅ Machine Learning Specialization — **Coursera**
+- 🔄 Deep Learning Specialization — **Coursera** *(In Progress)*
 
 ---
 
 ## Featured Projects
 
-### [EcoShield](https://github.com/trabelsiracem04/EcoShield)
-**Smart City Cybersecurity & Energy Optimization Platform**
+### [EcoShield](https://github.com/trabelsiracem04/EcoShield) — Smart City Cybersecurity & Energy Optimization
+- Built a smart water infrastructure platform for real-time **False Data Injection (FDI)** attack detection
+- Developed AI models for pump power optimization and operational decision support
+- Integrated sensor monitoring, anomaly detection, and energy efficiency modules
 
-Detection of False Data Injection (FDI) attacks and pump power optimization for smart water infrastructure. Built for the AI Night Challenge using anomaly detection techniques.
-
-`Python` `Machine Learning` `Anomaly Detection` `Jupyter Notebook`
+`Python` `Machine Learning` `Anomaly Detection` `Smart Infrastructure`
 
 ---
 
-### [MindShift](https://github.com/trabelsiracem04/mindshift)
-**Gamer Anxiety Prediction & Wellness Recommender**
+### [VirtuGlass](https://github.com/trabelsiracem04/VirtuGlass) — AI-Powered Virtual Eyewear Try-On
+- Full-stack luxury e-commerce app for virtual eyewear try-on using **React**, **FastAPI**, and computer vision
+- Real-time facial landmark detection and glasses alignment with **OpenCV**, **MediaPipe**, and **PyTorch**
+- Live camera capture, before/after comparison slider, and multi-format image export
 
-A Flask-powered ML application that predicts gamer anxiety profiles from behavioral survey data and delivers personalized wellness-aware gaming recommendations.
+`Python` `React` `FastAPI` `OpenCV` `MediaPipe` `PyTorch` `Computer Vision`
+
+---
+
+### [MindShift](https://github.com/trabelsiracem04/mindshift) — Gaming Behavior & Wellness Recommender
+- Flask-based ML app to analyze gaming behavior patterns and predict anxiety profiles
+- Built a personalized recommendation system for gaming habits and wellness improvement
+- Handled data preprocessing, model training, and web integration
 
 `Python` `Flask` `Classification` `Behavioral Data`
 
 ---
 
-### [VirtuGlass](https://github.com/trabelsiracem04/VirtuGlass)
-**AI-Powered Virtual Glasses Try-On**
-
-Upload a photo and instantly preview different eyeglass frames using computer vision and image processing techniques.
-
-`Python` `Computer Vision` `AI`
-
----
-
-### [Jail Project](https://github.com/trabelsiracem04/jail_project)
-**Criminal Sentencing Data Analysis**
-
-Exploratory data analysis on a large, noisy real-world dataset of criminal cases and sentencing outcomes, with a focus on data cleaning, feature understanding, and pattern discovery.
+### [Jail Project](https://github.com/trabelsiracem04/jail_project) — Criminal Sentencing Data Analysis
+- Exploratory data analysis on a large, noisy real-world dataset of criminal cases and sentencing outcomes
+- Focused on data cleaning, feature understanding, and pattern discovery
 
 `Python` `Data Science` `EDA` `Jupyter Notebook`
 
@@ -73,19 +84,22 @@ Exploratory data analysis on a large, noisy real-world dataset of criminal cases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Machine Learning & Data Science**
+**AI / ML**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Frameworks & Tools**
+**Web & Tools**
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -98,7 +112,8 @@ Exploratory data analysis on a large, noisy real-world dataset of criminal cases
 
 ---
 
-## Contact
+## Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/racem-trabelsi-769471391/)
+- 📧 racem.trabelsi@enetcom.u-sfax.tn
 - 📍 Sfax, Tunisia
