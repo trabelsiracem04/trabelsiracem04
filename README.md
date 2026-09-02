@@ -32,6 +32,19 @@ Focused on Machine Learning, Computer Vision, and Intelligent Systems
 
 ---
 
+## Experience
+
+### Data Warehouse & Business Intelligence Intern — DashMaster
+**06/2026 – 08/2026** | Sfax, Tunisia
+
+- Designed and implemented a data warehouse using SQL Server
+- Analyzed and modeled relational source data into fact and dimension tables using a star schema
+- Performed ETL processes to extract, transform, clean, and load data from multiple CSV sources
+- Used SQL Server, SSMS, Visual Studio, and SSIS to build and manage the data integration pipeline
+- Developed BI reports and dashboards to analyze sales performance and business KPIs
+
+---
+
 ## Certifications
 
 - ✅ Associate Data Scientist — **DataCamp**
